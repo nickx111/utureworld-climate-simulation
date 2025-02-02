@@ -1,2 +1,22 @@
-# utureworld-climate-simulation
-Climate Crisis Simulation and Visualization Platform
+# FutureWorld 气候危机模拟平台
+
+## 项目概述
+FutureWorld是一个创新的气候危机模拟和可视化平台，旨在通过AI和数据可视化技术，帮助政府、企业和研究机构更好地理解和应对气候变化带来的挑战。该平台提供实时气候数据分析、未来趋势预测，以及多维度的环境影响评估。
+
+## 功能特点
+- 🌡️ 全球温度趋势分析与预测
+- 🌊 海平面上升模拟及影响评估
+- 📊 资源消耗指数追踪
+- 📈 多维数据可视化
+- 🔄 实时数据更新与分析
+- 💾 数据导出功能
+
+## 技术架构
+- **前端框架**: Streamlit
+- **数据处理**: Pandas, NumPy
+- **机器学习**: Scikit-learn
+- **数据可视化**: Plotly
+- **版本控制**: Git
+
+## 安装说明
+1. 克隆仓库
